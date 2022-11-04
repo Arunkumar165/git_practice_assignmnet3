@@ -10,6 +10,9 @@ flag=false;
 }
 
 }
+
 console.log(flag)
 }
 console.log(palin(num))
+
+

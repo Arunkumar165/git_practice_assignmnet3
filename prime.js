@@ -5,7 +5,8 @@ for(i=2;i<=N;i++){
 if(N%i==0){
 count++
 }
-}if(count==2){
+}
+if(count==2){
 console.log("is prime")
 }
 else{
